@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Mogalagunta Saikumar
 
-<!--
-**MogalaguntaSaikumar/MogalaguntaSaikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Python Full-Stack Developer* — python • HTML • CSS • Java Script • Django • SQL 
+# Skills
+•Frontend Technologies: HTML, CSS, Java Script
 
-Here are some ideas to get you started:
+•Backend Technologies: Python and Django Frame Tecnology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•DataBase:SQL(mysql/sqlite3)
+
+•Tolls: VS code,pycharm
+  
+
+
